@@ -4,10 +4,11 @@
 /Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/bin/Debug/netstandard2.0/FirstAppXamarin.pdb
 /Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/FirstAppXamarin.csprojAssemblyReference.cache
 /Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/FirstAppXamarin.AssemblyInfoInputs.cache
 /Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/FirstAppXamarin.AssemblyInfo.cs
 /Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/FirstAppXamarin.dll
 /Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/ref/FirstAppXamarin.dll
 /Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/FirstAppXamarin.pdb
+/Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/NotesPage.xaml.g.cs
+/Users/monitora/Projects/FirstAppXamarin/FirstAppXamarin/obj/Debug/netstandard2.0/NoteEntryPage.xaml.g.cs
