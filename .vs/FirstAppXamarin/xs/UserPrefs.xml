@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7018EB49-C9A7-4DE5-896A-14C8981768F2}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirstAppXamarin.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstAppXamarin/MainPage.xaml">
+    <Files>
+      <File FileName="FirstAppXamarin/MainPage.xaml.cs" Line="18" Column="24" />
+      <File FileName="FirstAppXamarin/MainPage.xaml" Line="7" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstAppXamarin" expanded="True">
+            <Node name="FirstAppXamarin" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FirstAppXamarin.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
